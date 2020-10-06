@@ -1,0 +1,4 @@
+1. Please Run the code from Covid19_Tracker.m
+
+2. NOTE:- The Project is done in Matlab 2018b, some features might not work on older versions.
+
